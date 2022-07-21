@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 file added in branch1234
-=======
-file added in branch12345
->>>>>>> 0c99fdbdef967044a71a82113c6ea9fdca409677
